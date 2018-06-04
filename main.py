@@ -76,7 +76,8 @@ while i < len(thread):
 
     message = parse(raw["data"], raw["contents"])
 
-    # TODO: YOUR CODE HERE
+    # YOUR CODE HERE
+    #
     # The Message class has attributes contents, sender, and timestamp.
     # The "message" variable above is an instance of this class.
     #
